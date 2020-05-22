@@ -1,0 +1,16 @@
+body::-webkit-scrollbar {
+  width: 0px;
+  background: none;
+}
+.el-form-item__label {
+  color: #ffffff;
+}
+.el-form-item__error{
+  color: #FFAD60;
+}
+.el-popup-parent--hidden{
+  padding-right: 0px !important ;
+}
+.el-dialog{
+  margin-top: 34vh !important;
+}

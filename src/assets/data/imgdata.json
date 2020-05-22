@@ -1,0 +1,34 @@
+{
+    "data":[
+        {
+            "title":"商城首页",
+            "img":"https://i.loli.net/2020/05/19/QHgpz5b9vLNlGRM.png",
+            "icon":"https://i.loli.net/2020/05/21/trTYlKNoRw1nkDZ.png"
+        },
+        {
+            "title":"活动专区",
+            "img":"https://i.loli.net/2020/05/19/oHuVGDrkBKFOJCl.png",
+            "icon":"https://i.loli.net/2020/05/21/ZyVXhEsNkf5wblM.png"
+        },
+        {
+            "title":"用户主页",
+            "img":"https://i.loli.net/2020/05/21/z1lIoGybUtVw5O3.png",
+            "icon":"https://i.loli.net/2020/05/21/Ngx1caYTSeu96HU.png"
+        },
+        {
+            "title":"优惠券",
+            "img":"https://i.loli.net/2020/05/19/bTo1CxRZijHwzVm.png",
+            "icon":"https://i.loli.net/2020/05/21/ZuAfdIm37xO18eW.png"
+        },
+        {
+            "title":"购物车",
+            "img":"https://i.loli.net/2020/05/20/leB1In7ObpqGfkD.png",
+            "icon":"https://i.loli.net/2020/05/21/BxybhJpruokE6YG.png"
+        },
+        {
+            "title":"商品详情",
+            "img":"https://i.loli.net/2020/05/20/SZAFIHtkluYN1vh.png",
+            "icon":"https://i.loli.net/2020/05/21/g9fOby78lHzSXB6.png"
+        }
+    ]
+}
